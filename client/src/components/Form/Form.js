@@ -14,6 +14,7 @@ const Form = () => {
     const dispatch = useDispatch();
     const handleSubmit = (e) => {
         e.preventDefault();
+         console.log("this is get call ", postData)
         dispatch(createPost(postData));
 
     }
