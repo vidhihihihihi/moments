@@ -29,5 +29,3 @@ mongoose.Promise = global.Promise;
    .catch((error)=> console.log(error.message));
 */
 //mongoose.set('useFindAndModify',false);
-
-//you are a good girl
