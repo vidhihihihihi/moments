@@ -1,4 +1,9 @@
 body {
-    background-color: rgba(0,183,255, 1);
-    background-image: url('./images/slanted-gradient.svg' );
+    /*background-color: rgba(0,183,255, 1);*/
+    background-color: rgb(190, 129, 219);
+
+    /*background-image: url('./images/slanted-gradient.svg' );*/
+    /*background-image: url('./images/junction.svg' );*/
+    /*background-image: url('./images/junction.svg' );*/
+    background-image: url('./images/bgtry.svg' );
  }
