@@ -17,7 +17,7 @@ app.use(cors());
 app.use('/posts', postRoutes);
 
 //https://www.mongodb.com/cloud/atlas
-
+ 
 //const CONNECTION_URL = 'mongodb+srv://vidhigupta:mongodb@cluster0.jcuofxx.mongodb.net/?retryWrites=true&w=majority';
 const PORT = process.env.PORT || 5000;
 
@@ -30,4 +30,4 @@ mongoose.Promise = global.Promise;
 */
 //mongoose.set('useFindAndModify',false);
 
-
+//you are a good girl
