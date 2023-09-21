@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const url = 'http://localhost:5000/posts';
+//const url = 'http://localhost:5000/posts';
+const url = 'https://moments-25dt.onrender.com/posts';
 //const createUrl = 'http://localhost:5000/posts/create';
 
 
